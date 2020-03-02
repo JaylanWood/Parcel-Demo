@@ -1,0 +1,14 @@
+$font-color: rgb(177, 139, 36);
+$bg-color:gray;
+
+main {
+    user-select: none;
+    background-image: url('../img/2.png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+        color: $font-color;
+    }
+}

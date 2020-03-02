@@ -1,0 +1,15 @@
+main {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: url("/2.23c06684.png");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main h1 {
+  color: #b18b24;
+}
+
+/*# sourceMappingURL=/parcel-demo.e31bb0bc.css.map */
